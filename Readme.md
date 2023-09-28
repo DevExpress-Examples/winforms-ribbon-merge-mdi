@@ -6,7 +6,7 @@
 
 # WinForms Ribbon - MDI Ribbon merge
 
-This example demonstrates automatic menu merging for MDI applications. The main and child MDI forms contain Ribbon UI. The child form's `RibbonControl` is merged into the main form's RibbonControl when the child form is maximized.
+This example demonstrates automatic menu merging for MDI applications. The main and child MDI forms contain a Ribbon UI. The child form's `RibbonControl` is merged into the main form's RibbonControl when the child form is maximized.
 
 ![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-merge-ribbon-controls-e1917/13.1.4%2B/media/winforms-ribbon-merge-mdi.png)
 
