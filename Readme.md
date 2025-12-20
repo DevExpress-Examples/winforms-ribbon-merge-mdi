@@ -9,7 +9,7 @@
 
 This example demonstrates automatic menu merging for MDI applications. The main and child MDI forms contain a Ribbon UI. The child form's `RibbonControl` is merged into the main form's RibbonControl when the child form is maximized.
 
-![](https://raw.githubusercontent.com/DevExpress-Examples/how-to-merge-ribbon-controls-e1917/13.1.4%2B/media/winforms-ribbon-merge-mdi.png)
+![WinForms Ribbon - MDI Ribbon merge](media/winforms-ribbon-merge-mdi.png)
 
 ```csharp
 private void Form1_Load(object sender, EventArgs e) {
@@ -35,3 +35,4 @@ private void Form1_Load(object sender, EventArgs e) {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
