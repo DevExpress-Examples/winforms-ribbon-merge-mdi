@@ -29,7 +29,7 @@ private void Form1_Load(object sender, EventArgs e) {
 
 * [MDI Merging - WinForms Toolbars and Ribbon UI](https://docs.devexpress.com/WindowsForms/1099/controls-and-libraries/ribbon-bars-and-menu/bars/mdi-merging)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-ribbon-merge-mdi&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-ribbon-merge-mdi&~~~was_helpful=no)
 
